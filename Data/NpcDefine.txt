@@ -1,0 +1,75 @@
+{
+  "1": {
+    "ID": 1,
+    "Name": "单发炮",
+    "Speed": 2,
+    "Money": 100,
+    "value": 1,
+    "Time": 1,
+    "Range": 40,
+    "BulletSpeed": 30
+  },
+  "2": {
+    "ID": 2,
+    "Name": "范围炮",
+    "Speed": 4,
+    "Money": 100,
+    "value": 1,
+    "Time": 1,
+    "Range": 40,
+    "BulletSpeed": 30
+  },
+  "3": {
+    "ID": 3,
+    "Name": "加速炮",
+    "Speed": 1,
+    "Money": 150,
+    "value": 2,
+    "Time": 1,
+    "Range": 40,
+    "BulletSpeed": 30
+  },
+  "4": {
+    "ID": 4,
+    "Name": "减速炮",
+    "Speed": 2,
+    "Money": 150,
+    "value": 1,
+    "Time": 1,
+    "Range": 40,
+    "Buff": 2,
+    "BulletSpeed": 30
+  },
+  "5": {
+    "ID": 5,
+    "Name": "激光炮",
+    "Speed": 1,
+    "Money": 200,
+    "value": 2,
+    "Time": 1,
+    "Range": 40,
+    "BulletSpeed": 30
+  },
+  "6": {
+    "ID": 6,
+    "Name": "大范围炮",
+    "Speed": 4,
+    "Money": 200,
+    "value": 1,
+    "Time": 1,
+    "Range": 60,
+    "BulletSpeed": 30
+  },
+  "7": {
+    "ID": 7,
+    "Name": "暴击炮",
+    "Speed": 4,
+    "Money": 200,
+    "value": 4,
+    "Time": 1,
+    "Chance": 33,
+    "times": 2,
+    "Range": 40,
+    "BulletSpeed": 30
+  }
+}

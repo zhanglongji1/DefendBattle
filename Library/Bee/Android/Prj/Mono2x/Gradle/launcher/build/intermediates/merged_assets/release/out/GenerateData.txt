@@ -1,0 +1,82 @@
+{
+  "1": {
+    "ID": 1,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count": 15
+  },
+  "2": {
+    "ID": 2,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count": 15
+  },
+  "3": {
+    "ID": 3,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count": 15
+  },
+  "4": {
+    "ID": 4,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count": 15
+  },
+  "5": {
+    "ID": 5,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count": 15
+  },
+  "6": {
+    "ID": 6,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count": 15
+  },
+  "7": {
+    "ID": 7,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count": 15
+  },
+  "8": {
+    "ID": 8,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count":15
+  },
+  "9": {
+    "ID": 9,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count":15
+  },
+  "10": {
+    "ID": 10,
+    "Wave": 12,
+    "Time": 15,
+    "Rate": 1,
+    "Gold": 300,
+    "Count":15
+  }
+}
